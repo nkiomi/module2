@@ -1,9 +1,12 @@
 *{
 	box-sizing: border-box;
 	font-family: Arial, sans-serif;
+	font-size: 1em;
 }
 h1{
 	text-align: center;
+	font-size: 1.75em;
+
 }
 .content-box {
 	border: 3px solid black;
@@ -17,6 +20,7 @@ h1{
 	text-align: center;
 	float: right;
 	font-weight: bold;
+	font-size: 1.25em;
 	position: relative;
 	top: 0;
 	right: 0;
